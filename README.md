@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-this project was vercel with [create vercel](https://project-blogs-gbososcqq-alizare-1986.vercel.app/)
 
 ## Available Scripts
 
@@ -9,7 +8,7 @@ In the project directory, you can run:
 
 ### `run with vercel`
 
-this project was vercel with :[run with vercel](https://project-blogs-gbososcqq-alizare-1986.vercel.app/)
+this project was vercel with :[https://project-blogs-gbososcqq-alizare-1986.vercel.app/](https://project-blogs-gbososcqq-alizare-1986.vercel.app/)
 
 ### `npm start`
 
